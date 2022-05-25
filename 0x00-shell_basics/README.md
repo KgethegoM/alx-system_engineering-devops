@@ -1,1 +1,1 @@
-this prints the absolute path name of the current working directory
+list the files of the working directory in a long format
